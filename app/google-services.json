@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256010877913",
+    "project_id": "bd-chart-f6160",
+    "storage_bucket": "bd-chart-f6160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256010877913:android:84ea9d4871b43550b977c8",
+        "android_client_info": {
+          "package_name": "com.example.bdchart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256010877913-iod6uc8igm1jjgj378qad41vvqmq4npd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzm1uT_UfWRxB-BYzLk-kjm7Ui3avCLIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256010877913-iod6uc8igm1jjgj378qad41vvqmq4npd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
